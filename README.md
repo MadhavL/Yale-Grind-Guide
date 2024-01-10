@@ -2,6 +2,10 @@
 
 This is an interactive map to explore study spots on Yale's campus. Users can interact with it using their right hand. As users move their hand, a cursor shows up on screen indicating the location they are pointing at. Users can navigate the map by panning up, down, right, and left when their cursor reaches the North, South, East and West edges of the map. They can also zoom in and out of the map by hovering over the zoom buttons on the screen. When the user's cursor hovers over the location pins of study spots for a few seconds, a popup showing detailed information about that study space (including facilities, directions, etc.) will appear.
 
+## Demo Video
+
+https://github.com/MadhavL/Yale-Grind-Guide/assets/19777241/bd9fe000-db17-4313-9202-2de328d3b301
+
 ## Instructions
 
 0. First, make sure line 17 and 18 in `main.js` are used correctly. If reading data from TV, make sure host is set to "cpsc484-01.yale.internal:8888". If reading data from local recording, set host to "127.0.0.1:5173".
